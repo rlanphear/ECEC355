@@ -1,7 +1,36 @@
 #ECEC355
 
+Group Members:
+    Nathan Schomer (nls76)
+
+##############################
+
 Week1 TODO (due Wed 6/29):
     PC & Sign Extend : Ryan
     Shift Left 2 & Sift Left 2 Jump : Steven
     Mux5 & Mux32 : Nathan
     And2 & Nor32 : Mike
+
+###############################
+
+Note- if anyone doesn't feel like using git, just let me know. I would be happy
+switching to a more primative code sharing technique.
+
+###############################
+
+Quick Git Rundown & Resources-
+
+If you've never used a software version control system like git before, I reccomend you 
+checkout the website below. It has a really straight forward rundown of how to use git.
+
+http://rogerdudler.github.io/git-guide/ 
+
+Essentially you have to options for accessing the repository:
+1. Use a graphical git client like GitHub (works best if you're using Windows)
+2. Use the command line (works best for anyone using Linux or Mac)
+
+Hit me up with any questions.
+
+-Nathan
+
+###############################
