@@ -18,6 +18,7 @@ wlf*
 *.vstf
 *.ucdb
 cov*/
+work*/
 transcript*
 sc_dpiheader.h
 vsim.dbg
