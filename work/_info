@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/parallels/altera/16.0/modelsim_ase/linuxaloem
+Emux32
+Z0 w1466879045
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 d/home/parallels/ECEC355
+Z4 8/home/parallels/ECEC355/MUX32.vhd
+Z5 F/home/parallels/ECEC355/MUX32.vhd
+l0
+L4
+V6YKQGJd0ZRlFMG7U50?[P0
+!s100 JSQhe84JNheC_YT]Tcf^k3
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1466879052
+!i10b 1
+Z8 !s108 1466879052.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/parallels/ECEC355/MUX32.vhd|
+Z10 !s107 /home/parallels/ECEC355/MUX32.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Abehavioral
+R1
+R2
+DEx4 work 5 mux32 0 22 6YKQGJd0ZRlFMG7U50?[P0
+l11
+L10
+VZ7Sz9FQDkDMaQS[KkKVC53
+!s100 U;QG14K`YlYRELI37f=U63
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux5
+Z13 w1466878995
+R1
+R2
+R3
+Z14 8/home/parallels/ECEC355/MUX5.vhd
+Z15 F/home/parallels/ECEC355/MUX5.vhd
+l0
+L4
+VQMnG]Mn09nzP2?=F4adQ71
+!s100 >[NVQEbE9K<ohS0DmfE?33
+R6
+32
+Z16 !s110 1466879003
+!i10b 1
+Z17 !s108 1466879002.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/parallels/ECEC355/MUX5.vhd|
+Z19 !s107 /home/parallels/ECEC355/MUX5.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 4 mux5 0 22 QMnG]Mn09nzP2?=F4adQ71
+l11
+L10
+VY1JE3SNY3g3[zgP>bmP9c0
+!s100 ?=5Y3RzB^<Z>Y][gi`JhG0
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
