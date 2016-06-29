@@ -1,0 +1,38 @@
+library ieee;
+use IEEE.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+
+entity SignExtend is
+port(   x:in std_logic_vector(15 downto 0);
+	y:out std_logic_vector(31 downto 0)
+);
+end SignExtend;
+
+architecture beh of SignExtend is
+begin
+
+process( x )
+begin
+  y(15 downto 0) <= x(15 downto 0);
+	y(31) <= x(15);
+	y(30) <= x(15);
+	y(29) <= x(15);
+	y(28) <= x(15);
+	y(27) <= x(15);
+	y(26) <= x(15);
+	y(25) <= x(15);
+	y(24) <= x(15);
+	y(23) <= x(15);
+	y(22) <= x(15);
+	y(21) <= x(15);
+	y(20) <= x(15);
+	y(19) <= x(15);
+	y(18) <= x(15);
+	y(17) <= x(15);
+	y(16) <= x(15);
+
+	-- y <= std_logic_vector(resize(signed(x), y'length));
+
+end process;
+end beh;
