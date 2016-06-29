@@ -1,0 +1,21 @@
+library ieee;
+use IEEE.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity PC is
+port(clk        :in std_logic;
+     AddressIn  :in std_logic_vector(31 downto 0);
+     AddressOut :out std_logic_vector(31 downto 0)
+);
+end PC;
+
+architecture beh of PC is
+begin
+
+process( clk )
+begin
+	if clk'event and clk='1' then
+		addressOut <= addressIn;
+	end if;    
+end process;
+end beh;
